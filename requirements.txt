@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+pydantic
+qrcode
+reportlab
+python-barcode
+sqlalchemy
+psycopg2
